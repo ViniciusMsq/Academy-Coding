@@ -1,2 +1,2 @@
-# Academy-Coding
-Projeto para o Academy Coding 1°temporada
+# Projeto-Academy-coding
+ Consulta API climática com Dashboard
