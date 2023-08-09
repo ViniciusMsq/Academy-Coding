@@ -2,7 +2,7 @@
 let btn = document.querySelector("#btn");
 
 //salvando a url da api
-let url = 'https://api.hgbrasil.com/weather?format=json-cors&key=076a071b&city_name=';
+let url = 'https://api.hgbrasil.com/weather?format=json-cors&key=[GERAR_NO_SITE]&city_name=';
 let obj; // variavel para receber o objeto de retorno
 
 //pegando a caixa de pesquisa
